@@ -4,5 +4,5 @@
 <h3>"Share a fact" that allows users to share their fact</h3>
 <img src=2.png>
 
-<h4>Here's a link to deployed application</h4>
-<a href="https://newscheckers.netlify.app/"> Link </a>
+<h4>Here's a <a href="https://newscheckers.netlify.app/"> Link </a> to deployed application</h4>
+
